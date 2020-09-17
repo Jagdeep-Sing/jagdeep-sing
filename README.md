@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jagdeep Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-- 📫 How to reach me **js86248@gmail.com**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagdeep-sing" alt="jagdeep-sing" />
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
