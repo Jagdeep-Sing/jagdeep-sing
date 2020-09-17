@@ -14,7 +14,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jagdeep-sing&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdeep-sing&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p><br>
 
-
+<p align="center">
+        <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif">
+        <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif">
+</p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
