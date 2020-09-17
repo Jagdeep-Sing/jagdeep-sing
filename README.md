@@ -12,16 +12,16 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jagdeep-sing&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdeep-sing&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p><br>
+</p>
 
 <p align="center">
         <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif">
-        <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif">
+        <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" height="384px">
 </p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
+<p align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -46,7 +46,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
+</p>
 
 
 
