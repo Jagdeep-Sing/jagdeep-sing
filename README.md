@@ -1,6 +1,15 @@
 
+<div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagdeep-sing" alt="jagdeep-sing" />
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
+<!-- spotify -->
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default"/>
 </p>
 
 <!-- thropy -->
@@ -11,11 +20,6 @@
 </a>
 
 <!-- status codes -->
-<a align="center" href="#">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jagdeep-sing&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
-    </p>
-</a>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jagdeep-sing&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdeep-sing&layout=compact&theme=tokyonight" alt="languages" height="165">
